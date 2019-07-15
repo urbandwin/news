@@ -1,0 +1,29 @@
+title: Soap Map Prototyp erstellt
+date: 2019-07-14
+time: 19:00
+-------------
+Wir haben eine Übersicht mit Läden und Manufakturen für palmölfreie Seife in Berlin erstellt. Die [Soap-Map](stuff/soap-store/map) 
+zeigt bereits acht Einträge, weitere folgen in Kürze.
+-------------
+Wir haben eine Übersicht mit Läden und Manufakturen für palmölfreie Seife in Berlin erstellt. Die [Soap-Map](stuff/soap-store/map) 
+zeigt bereits acht Einträge, weitere folgen.
+
+Nach einer ausgedehnten Recherche nach Bezugsquellen für palmölfreie Seifen in Berlin haben wir folgende Läden und Manufakturen 
+gefunden:
+Studio Morgentau
+BellaDonna Naturkosmetik
+Der Sache Wegen
+ERICA Naturkosmetik
+Späth`sche Hofladen
+SauberKunst
+Original Unverpackt
+Naturkaufhaus
+Lieblingsdinge
+Calla Naturkosmetik
+Amazingy
+1000 & 1 Seifen
+
+Viele waren bereits in der OSM eingetragen, den Rest haben wir hinzugefügt. Die Einträge lassen sich bisher wahlweise auf der Map 
+oder als Liste mit den Namen aufrufen. Eine übersichtlichere Ansicht, die auch Adressen beinhaltet ist in Arbeit.
+
+Weitere thematische Maps gibt es [hier](/things).
