@@ -25,7 +25,7 @@ A good example for this is the calculator which is a fully usable calculator
 that can be used once it is displayed above the normal search results.
 
 Now the cool thing is, DuckDuckHack is an Open Source project! Hence we
-can integrate the existing Instant Answert into our own search engine
+can integrate the existing Instant Answer into our own search engine
 and thereby include well-designed and battle-hardened features into it
 with minimal effort.
 
