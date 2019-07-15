@@ -1,0 +1,36 @@
+title: Integrated first two DuckDuckHack Instant Answers
+date: 2019-07-14
+time: 15:36
+----------
+We've been working on integrating Instant Answers from DuckDuckGo's community
+effort called DuckDuckHack for a while. Today we have integrated the first
+two Instant Answers into our search:
+the [calculator](/search-by-name-like?query=1%2B1)
+and [game 2048](/search-by-name-like?query=2048).
+----------
+We've been working on integrating Instant Answers from DuckDuckGo's community
+effort called DuckDuckHack for a while. Today we have integrated the first
+two Instant Answers into our search:
+the [calculator](/search-by-name-like?query=1%2B1)
+and [game 2048](/search-by-name-like?query=2048).
+
+DuckDuckGo has been building and maintaining an impressive collection
+of Instant Answers for its search engine. An Instant Answer is a special
+type of search result that highlights a specific source prominently and
+with an enhanced user interface. Examples are weather widgets, Wikipedia
+articles or song lyrics. For some Instant Answers, the result is an
+interactive mini-application that allows the user to take further action.
+A good example for this is the calculator which is a fully usable calculator
+that can be used once it is displayed above the normal search results.
+
+Now the cool thing is, DuckDuckHack is an Open Source project! Hence we
+can integrate the existing Instant Answert into our own search engine
+and thereby include well-designed and battle-hardened features into it
+with minimal effort.
+
+DuckDuckGo has put the DuckDuckHack program into maintenance mode in
+August 2017 after 5 years of operation. Only essential bug fixes can be
+submitted to the official repositories since then.
+We hope to continue the development efforts and enable the community to
+pick up work on their Instant Answers and provide a platform where they
+can be improved further.
