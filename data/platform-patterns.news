@@ -1,0 +1,12 @@
+id: platform-patterns
+title: Public transport platform tile patterns
+date: 2019-03-15
+time: 18:41
+----------
+We implemented support for the [platform tile patterns](/bvg/platform-patterns)
+data set that is available [here](https://github.com/juliuste/vbb-platform-patterns).
+----------
+We implemented support for the [platform tile patterns](/bvg/platform-patterns)
+data set that is available [here](https://github.com/juliuste/vbb-platform-patterns).
+Take a look at the page of station [Hermannplatz](/bvg/station/900000078101) to
+see an example.

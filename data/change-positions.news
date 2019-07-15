@@ -1,0 +1,13 @@
+id: change-positions
+title: Public transport change positions
+date: 2019-03-13
+time: 17:09
+----------
+We implemented support for public transport change positions, i.e. information
+on where to get on any train to minimize the walking distance when changing
+to a different line.
+----------
+We implemented support for public transport change positions, i.e. information
+on where to get on any train to minimize the walking distance when changing
+to a different line.
+The original data set is available [here](https://github.com/juliuste/vbb-change-positions).
