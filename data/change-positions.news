@@ -11,3 +11,5 @@ We implemented support for public transport change positions, i.e. information
 on where to get on any train to minimize the walking distance when changing
 to a different line.
 The original data set is available [here](https://github.com/juliuste/vbb-change-positions).
+Take a look at the page of station [Südkreuz](/bvg/station/900000058101) to
+see an example.
