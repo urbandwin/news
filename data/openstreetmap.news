@@ -1,0 +1,12 @@
+id: openstreetmap
+title: Importing OpenStreetMap data for Berlin
+date: 2019-01-04
+time: 11:31
+----------
+We're now regularly importing the Geofabrik dump of OpenStreetMap
+data for the Berlin region into our database.
+----------
+We're now regularly importing the Geofabrik dump of OpenStreetMap
+data for the Berlin region into our database.
+We implemented first search features on top of that, just
+try looking for something on the front page's search box!
