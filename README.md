@@ -1,14 +1,15 @@
 ## Beispiel
 
 ```
+id: big-news
 title: Big News
 date: 2019-07-06
 time: 17:40
----------
+----------
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc
 aliquet bibendum enim.
----------
+----------
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc
 aliquet bibendum enim. In massa tempor nec feugiat. Nunc aliquet bibendum enim
