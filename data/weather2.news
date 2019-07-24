@@ -1,0 +1,16 @@
+id: weather
+title: Weather available in search
+date: 2019-07-24
+time: 11:43
+----------
+When searching for
+'[weather](/search-by-name-like?query=weather)'
+there is now an instant answer showing the current
+weather.
+----------
+When searching for
+'[weather](/search-by-name-like?query=weather)'
+there is now an instant answer showing the current
+weather.
+A link to more details and the forecast can be reached
+with a link that is provided in the instant answer.
