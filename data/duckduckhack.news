@@ -6,14 +6,14 @@ time: 15:36
 We've been working on integrating Instant Answers from DuckDuckGo's community
 effort called DuckDuckHack for a while. Today we have integrated the first
 two Instant Answers into our search:
-the [calculator](/search-by-name-like?query=1%2B1)
-and [game 2048](/search-by-name-like?query=2048).
+the [calculator](/search?q=1%2B1)
+and [game 2048](/search?q=2048).
 ----------
 We've been working on integrating Instant Answers from DuckDuckGo's community
 effort called DuckDuckHack for a while. Today we have integrated the first
 two Instant Answers into our search:
-the [calculator](/search-by-name-like?query=1%2B1)
-and [game 2048](/search-by-name-like?query=2048).
+the [calculator](/search?q=1%2B1)
+and [game 2048](/search?q=2048).
 
 DuckDuckGo has been building and maintaining an impressive collection
 of Instant Answers for its search engine. An Instant Answer is a special
