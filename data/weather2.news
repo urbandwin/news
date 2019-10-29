@@ -1,16 +1,14 @@
 id: weather
-title: Weather available in search
+title: Wetter in der Suche
 date: 2019-07-24
 time: 11:43
 ----------
-When searching for
-'[weather](/search?q=weather)'
-there is now an instant answer showing the current
-weather.
+Beim Suchbegriff
+'[Wetter](/search?q=wetter)'
+erscheint nun eine Schnellantwort mit dem aktuellen
+Wetter und Link zum Wetterbericht.
 ----------
-When searching for
-'[weather](/search?q=weather)'
-there is now an instant answer showing the current
-weather.
-A link to more details and the forecast can be reached
-with a link that is provided in the instant answer.
+Beim Suchbegriff
+'[Wetter](/search?q=wetter)'
+erscheint nun eine Schnellantwort mit dem aktuellen
+Wetter und Link zum Wetterbericht.
