@@ -1,0 +1,11 @@
+id: address-search
+title: Adress-Suche
+date: 2019-10-14
+time: 09:00
+----------
+Es gibt jetzt eine Adress-Suche, also Suchanfragen wie [tucholskystr. 2](/search?q=tucholskystr.+2)
+liefern Ergebnisse.
+----------
+Es gibt jetzt eine Adress-Suche, also Suchanfragen wie [tucholskystr. 2](/search?q=tucholskystr.+2)
+liefern Ergebnisse.
+Abkürzungen wie 'str ', 'str.' oder auch 'pl.' funktionieren auch.
